@@ -113,18 +113,6 @@ The default **db.json** file structure is:
 }
 ```
 
-**API Endpoints:**
-
-| Method | Endpoint    | Description             |
-| ------ | ----------- | ----------------------- |
-| GET    | /games      | Get all games           |
-| GET    | /games/\:id | Get a single game by id |
-| POST   | /games      | Add a new game          |
-| PUT    | /games/\:id | Update a game           |
-| DELETE | /games/\:id | Delete a game           |
-
----
-
 ## Folder Structure
 
 ```
