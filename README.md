@@ -148,10 +148,4 @@ game-buzz/
 
 ## Screenshots / UI Preview
 
-> Add screenshots here to showcase your app's UI.
-
-![Home Page](./screenshots/home.png)
-![Game Detail Page](./screenshots/game-detail.png)
-![Add Game Form](./screenshots/add-game.png)
-
-> You can create a `screenshots` folder in the project root and add images with descriptive names.
+![alt text](image.png)
